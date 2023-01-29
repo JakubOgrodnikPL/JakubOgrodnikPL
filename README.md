@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakubOgrodnikPL
 - 👀 I’m interested in mathematics, sports, poetry.
-- 🌱 I’m currently learning C++, French.
-- 💞️ I’m looking to collaborate on projects that could allow me to learn C++ and Java as fast as possible.
+- 🌱 I’m currently learning JavaScript, C++, French.
+- 💞️ I’m looking to collaborate on projects that could allow me to learn FrentEnd development or GameDev.
 - 📫 How to reach me: jakub.ogrodnik.pl@gmail.com
 
 <!---
