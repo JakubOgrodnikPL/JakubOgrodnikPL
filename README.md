@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I develop games with Unreal Engine and C++
 ------------------------------------------
 
-For half a year I actively probed various fields of IT: Unreal Engine, C++, Manual Testing, JavaScript, HTML, CSS, PHP, SQL, Worpress, DaVinci, Jira, Qtest, Gimp, Java, Python, Kotlin. That time helped me to set the direction to making games with Unreal Engine.
+For half a year I actively probed various fields of IT: Unreal Engine, C++, Manual Testing, JavaScript, HTML, CSS, PHP, SQL, Worpress, DaVinci, Jira, Qtest, Gimp, Java, Python, Kotlin. That time helped me to set the direction to make games with Unreal Engine.
 
 *   🌍  I'm based in Warsaw
 *   🖥️  See my portfolio at [https://jakubogrodnik.pl](http://jakubogrodnik.pl)
