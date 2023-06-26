@@ -6,6 +6,8 @@ I develop games with Unreal Engine and C++
 
 For half a year I actively probed various fields of IT: Unreal Engine, C++, Manual Testing, JavaScript, HTML, CSS, PHP, SQL, Worpress, DaVinci, Jira, Qtest, Gimp, Java, Python, Kotlin. That time helped me to set the direction to make games with Unreal Engine.
 
+I currently work as a manual game tester at Lionbridge.
+
 *   🌍  I'm based in Warsaw
 *   🖥️  See my portfolio at [https://jakubogrodnik.pl](http://jakubogrodnik.pl)
 *   ✉️  You can contact me at [jakub.ogrodnik.pl@gmail.com](mailto:jakub.ogrodnik.pl@gmail.com)
