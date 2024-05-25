@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakub Ogrodnik
 ======================================================================================================================================
 
-I develop games with Unreal Engine and C++
+I am a professional game tester and I learn to develop games with Unreal Engine and C++
 ------------------------------------------
 
-For half a year I actively probed various fields of IT: Unreal Engine, C++, Manual Testing, JavaScript, HTML, CSS, PHP, SQL, Worpress, DaVinci, Jira, Qtest, Gimp, Java, Python, Kotlin. That time helped me to set the direction to make games with Unreal Engine.
+I play digital games, tabletop RPGs, LARPS and board games. My favourite genre is RPG.
 
-I currently work as a manual game tester at Lionbridge.
+I currently work as support for Senior Technichal Engineer at Lionbridge.
 
 *   🌍  I'm based in Warsaw
 *   🖥️  See my portfolio at [https://jakubogrodnik.pl](http://jakubogrodnik.pl)
