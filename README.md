@@ -6,7 +6,7 @@ I am a professional game tester and I learn to develop games with Unreal Engine 
 
 I play digital games, tabletop RPGs, LARPS and board games. My favourite genre is RPG.
 
-I currently work as support for Senior Technichal Engineer at Lionbridge.
+I currently work as a support for Senior Technichal Engineer at Lionbridge.
 
 *   🌍  I'm based in Warsaw
 *   🖥️  See my portfolio at [https://jakubogrodnik.pl](http://jakubogrodnik.pl)
