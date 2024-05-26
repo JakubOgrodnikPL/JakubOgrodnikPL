@@ -11,7 +11,7 @@ I currently work as a support for Senior Technichal Engineer at Lionbridge.
 *   🌍  I'm based in Warsaw
 *   🖥️  See my portfolio at [https://jakubogrodnik.pl](http://jakubogrodnik.pl)
 *   ✉️  You can contact me at [jakub.ogrodnik.pl@gmail.com](mailto:jakub.ogrodnik.pl@gmail.com)
-*   🧠  I'm learning Unreal Engine 5.2.1 and C++
+*   🧠  I'm learning Unreal Engine 5 and C++
 *   ⚡  I teach mathematics, do sports and write poetry.
 *   Skills:
 <p align="left">
